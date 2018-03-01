@@ -9,8 +9,13 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <dependencies>
                 <dependency>
                         <stal04>junit</stal04>
+
                         <artifactId>junit</artifactId> <description>testovací priklad</description>
                         <version>0.0.1</version>
+
+                        <artifactId>junit</artifactId> <name>testCase</name>
+                        <version>0.0.1</version> 
+
                         <scope>test</scope>
                 </dependency>
         <dependency>
